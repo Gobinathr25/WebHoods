@@ -1,0 +1,14 @@
+
+  
+.container{
+    margin:auto;
+}
+
+.showcase{
+    background: url('../img/pexels-photo-577560.jpeg') no-repeat center center;
+    
+}
+
+.showcase .row{
+    height:600px;
+  }
